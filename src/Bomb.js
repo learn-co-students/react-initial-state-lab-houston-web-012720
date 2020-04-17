@@ -1,6 +1,6 @@
 // your Bomb code here!
 import React from 'react';
-import ImageSlider from './ImageSlider'
+
 
 export default class Bomb extends React.Component{
     constructor(props){
